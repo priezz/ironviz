@@ -1,4 +1,4 @@
-# ironviz
+# Ironviz
 We build the best ever endurance sports visualiser.
 Live copy available: http://tri.infographer.ru
 
